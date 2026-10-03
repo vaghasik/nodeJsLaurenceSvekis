@@ -1,0 +1,21 @@
+{
+  "name": "nodejslaurencesvekis",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vaghasik/nodeJsLaurenceSvekis#readme",
+  "bugs": {
+    "url": "https://github.com/vaghasik/nodeJsLaurenceSvekis/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaghasik/nodeJsLaurenceSvekis.git"
+  },
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
